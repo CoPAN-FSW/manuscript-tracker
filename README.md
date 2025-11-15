@@ -2,7 +2,7 @@
 A simple, privacy-focused web tool for tracking manuscript submissions, reviews, and publication status across your research group.
 
 🔗 Access the Tool
-Visit: https://yourusername.github.io/manuscript-tracker/
+Visit: [https://yourusername.github.io/manuscript-tracker/](https://github.com/CoPAN-FSW/manuscript-tracker)
 
 ✨ Features
 Track manuscript status (draft, submitted, under review, revising, accepted, rejected, published)
